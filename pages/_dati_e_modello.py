@@ -10,3 +10,5 @@ st.write(
 
     """
 )
+from ui import render_footer
+render_footer("Gabriele Di Bella", "", "https://github.com/Di-Bella-Gabriele/hearth-risk-app")
